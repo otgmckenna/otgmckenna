@@ -7,4 +7,4 @@ Thanks for checking out my profile! I'm currently working on my MS in Data Analy
 - Data Visualization
 
 **Current Projects**
-- [2024 Drum Corps International Stats]([https://github.com/](https://github.com/otgmckenna/DCI-2024))
+- [2024 Drum Corps International Stats](https://github.com/otgmckenna/DCI-2024)
